@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950298023435",
+    "firebase_url": "https://cryptocurrency-2e7e1-default-rtdb.firebaseio.com",
+    "project_id": "cryptocurrency-2e7e1",
+    "storage_bucket": "cryptocurrency-2e7e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950298023435:android:ed27bd6d6bf109b3b9d90e",
+        "android_client_info": {
+          "package_name": "com.sanmathi.cryptos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950298023435-g4f1h1k2ju9nhfvutoo9o11bn0tqv422.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanmathi.cryptos",
+            "certificate_hash": "589523c05189659338c3ca73d159c963bec32718"
+          }
+        },
+        {
+          "client_id": "950298023435-338jlcv9j4g6pa4lqconhqn3h3idr3q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BBhz7c1qtLpMoukYiWSob7vLuJKHEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950298023435-338jlcv9j4g6pa4lqconhqn3h3idr3q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

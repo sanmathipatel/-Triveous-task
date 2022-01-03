@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/currecy"
+        android:icon="@drawable/currency"
+        android:title="Home"/>
+
+    <item android:id="@+id/favorite"
+        android:icon="@drawable/favoritye_filled"
+        android:title="Nearby"/>
+
+</menu>
